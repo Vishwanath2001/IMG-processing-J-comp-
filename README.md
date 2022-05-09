@@ -9,5 +9,7 @@
 * By default it will be installed in many version if not go ahead and run main.m 
 * you will get a error saying to install the required tools. Go ahead and install it 
 * That's it you should be able to run the program
+* to change the ```input image``` in main.m in line 4 you can change it 
+* make use of test images availaible in this repo code section 
 
 
