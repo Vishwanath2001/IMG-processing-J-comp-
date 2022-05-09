@@ -4,7 +4,7 @@
 
 ### Steps to run the program
 * Download the repo
-* Navigate to ```IMG-processing-j-comp- > code > main.m``` and run the main.m
+* Navigate to ```IMG-processing-j-comp- >  main.m``` and run the main.m
 * Just know to run this program you might need image processing tool of matlab. 
 * By default it will be installed in many version if not go ahead and run main.m 
 * you will get a error saying to install the required tools. Go ahead and install it 
