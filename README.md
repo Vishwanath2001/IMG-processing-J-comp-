@@ -12,4 +12,10 @@
 * to change the ```input image``` in main.m in line 4 you can change it 
 * make use of test images availaible in this repo code section 
 
+## Output
+* ![image](https://user-images.githubusercontent.com/76242298/176496286-70ff2e1e-8780-4e0f-996e-8fdb02d9fdc4.png)
+* ![image](https://user-images.githubusercontent.com/76242298/176496155-ef147356-fe9a-4887-a046-338b522c789f.png)
+
+
+
 
